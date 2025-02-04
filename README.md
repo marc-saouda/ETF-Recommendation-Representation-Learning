@@ -56,46 +56,6 @@ Training strategy:
 
 ---
 
-## **🚀 Running the Project**
-### **1️⃣ Installation**
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/your-username/etf-recommendation-system.git
-cd etf-recommendation-system
-pip install -r requirements.txt
-```
-
-### **2️⃣ Data Preprocessing**
-Run the preprocessing script to clean and prepare the dataset:
-```bash
-python src/preprocess.py
-```
-
-### **3️⃣ Training the Model**
-Train the recommendation system:
-```bash
-python src/train.py
-```
-
-### **4️⃣ Running Recommendations**
-Generate ETF recommendations for a user:
-```bash
-python src/recommend.py --user_id 123
-```
-
----
-
 ## **📜 License**
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
----
-
-## **👤 Author**
-**Marc Saliba**  
-- **MIT Sloan School of Management (MBAn 2025)**  
-- **Operations Research Center (ORC) - Research Assistant**  
-- **HEC Paris - Master in Management**  
-
----
-
-Feel free to reach out with questions or suggestions! 🚀
